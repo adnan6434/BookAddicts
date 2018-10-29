@@ -1,5 +1,6 @@
 # BookAddicts
-Academic project for the "Information System Design &amp; Software Engineering Lab" course
+Academic project for the "Information System Design &amp; Software Engineering Lab" course.
+
 Please ONLY import the 'bookaddict.sql' file in php mysql from the database folder .
 
 place the 'bookaddicts' folder in htdocs folder .
